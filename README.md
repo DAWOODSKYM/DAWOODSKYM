@@ -1,16 +1,28 @@
-### Hi there 👋
+## David Muchiri Kimotho
 
-<!--
-**DAWOODSKYM/DAWOODSKYM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Badge](https://img.shields.io/github/followers/DAWOODSKYM?style=social)](https://github.com/DAWOODSKYM?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/kimdave308?style=social)](https://twitter.com/kimdave308)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/david-kimotho-974b64174)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
 
-Here are some ideas to get you started:
+I am a GIS Analyst and Developer. My research interests include Geographic Information Science (GIS), remote sensing, Mobile software developement (Mobile GIS) and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., AWS, Earth Engine) to study environmental change, with particular intrest in forestry and wetland inundation dynamics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Open-source Projects
+
+
+
+---
+
+### Latest Blog Posts
+
+
+
+---
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DAWOODSKYM&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DAWOODSKYM&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
