@@ -8,15 +8,8 @@
 
 I am a GIS Analyst and Developer. My research interests include Geographic Information Science (GIS), remote sensing, Mobile software developement (Mobile GIS) and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., AWS, Earth Engine) to study environmental change, with particular intrest in forestry and wetland inundation dynamics.
 
----
-
-### Open-source Projects
 
 
-
----
-
-### Latest Blog Posts
 
 
 
@@ -24,5 +17,5 @@ I am a GIS Analyst and Developer. My research interests include Geographic Infor
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DAWOODSKYM&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DAWOODSKYM&langs_count=3&hide=javascript,go,html,css,tex)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAWOODSKYM&hide_langs_below=1) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAWOODSKYM&hide_langs_below=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/layout=compact/?username=DAWOODSKYM&layout=compact)
