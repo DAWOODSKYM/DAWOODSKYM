@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/david-kimotho-974b64174)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DAWOODSKYM.DAWOODSKYM)
 
-I am a GIS Analyst and Developer. My research interests include Geographic Information Science (GIS), remote sensing, Mobile software developement (Mobile GIS) and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., AWS, Earth Engine) to study environmental change, with particular intrest in forestry and wetland inundation dynamics.
+I am a Spatial Data Scientist and GIS Developer. My research interests include Geographic Information Science (GIS), remote sensing, Mobile software developement (Mobile GIS) and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, GeoAI and cloud computing (e.g., AWS, Earth Engine) to study environmental change, with particular intrest in forestry and wetland inundation dynamics.
 
 
 
