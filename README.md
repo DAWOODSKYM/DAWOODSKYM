@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/DAWOODSKYM?style=social)](https://github.com/DAWOODSKYM?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/kimdave308?style=social)](https://twitter.com/kimdave308)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/david-kimotho-974b64174)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DAWOODSKYM.DAWOODSKYM)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DAWOODSKYM.DAWOODSKYM)
 
 I am a Spatial Data Scientist and GIS Developer. My research interests include Geographic Information Science (GIS), remote sensing, Mobile software developement (Mobile GIS) and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, GeoAI and cloud computing (e.g., AWS, Earth Engine) to study environmental change.
 
