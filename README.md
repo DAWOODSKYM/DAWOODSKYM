@@ -21,10 +21,3 @@ I am a Spatial Data Scientist and GIS Developer. My research interests include G
     </td>
   </tr>
 </table>
-
----
-
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DAWOODSKYM&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DAWOODSKYM&langs_count=3&hide=javascript,go,html,css,tex)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAWOODSKYM&hide_langs_below=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/layout=compact/?username=DAWOODSKYM&layout=compact)
