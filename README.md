@@ -1,5 +1,5 @@
 ## David Muchiri Kimotho
-<h1 align="center">Hi <img src= width="30px">
+<h1 align="center">Hi <img src= width="30px"></h1>
 
 [![GitHub Badge](https://img.shields.io/github/followers/DAWOODSKYM?style=social)](https://github.com/DAWOODSKYM?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/kimdave308?style=social)](https://twitter.com/kimdave308)
