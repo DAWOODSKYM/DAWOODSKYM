@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/david-kimotho-974b64174)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DAWOODSKYM.DAWOODSKYM)
 
-I am a seasoned Data Scientist and Software Developer specializing in spatial domain. My professional expertise encompasses a comprehensive understanding of Geographic Information Science (GIS), remote sensing, and Mobile GIS, complemented by a strong foundation in data modeling. My research interests lie at the intersection of cutting-edge technologies, specifically focusing on the application of big data, machine learning, GeoAI, and cloud computing, leveraging platforms such as AWS and Earth Engine.
+I am a seasoned Data scientist, data analyst and Software Developer specializing in the spatial domain. My professional expertise encompasses a comprehensive understanding of Geographic Information Science (GIS), remote sensing, and Mobile GIS, complemented by a strong foundation in data modeling and statistics. My research interests lie at the intersection of cutting-edge technologies, specifically focusing on the application of big data, machine learning, GeoAI, and cloud computing, leveraging platforms such as AWS and Google cloud resources.
 <td>
     </p>
       <h3 align="left">Languages and Tools:</h3>
