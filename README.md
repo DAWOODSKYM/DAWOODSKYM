@@ -10,18 +10,20 @@ I am a seasoned Data scientist, data analyst and Software Developer specializing
 <td>
     </p>
       <h3 align="left">Languages and Tools:</h3>
-      <p align="left"> 
+      <div>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" width="60" height="60"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>&nbsp;
+          <img src ="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;          
+          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;          
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>&nbsp;
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>&nbsp; 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>&nbsp;
-          <img src ="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" alt="azure" width="60" height="60/>&nbsp;
-          <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp;    
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>&nbsp;
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>&nbsp;  
-      </p>  
+          <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="60" height="60"/>&nbsp; 
+          <img src ="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" alt="azure" width="60" height="60/>&nbsp;                   
+     </div>  
 </td>
 <table>
   <tr>
